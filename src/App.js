@@ -54,7 +54,7 @@ function SimpleCard(props) {
 									</CardContent>
 								</td>
 								<td style={{width:'50%',height:'100%',padding:20}}>
-									<iframe title="terminal" className={classes.terminal} width="100%" height="100%" frameBorder="0" src="http://ec2-18-206-223-118.compute-1.amazonaws.com"></iframe>
+									<iframe title="terminal" className={classes.terminal} width="100%" height="100%" frameBorder="0" src="http://aws-simlet.s3-website-us-east-1.amazonaws.com/demo-build/"></iframe>
 								</td>
 							</tr>
 						</tbody>
